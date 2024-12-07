@@ -16,9 +16,9 @@
     "INSTAGRAM_URL": "",
     "LINKEDIN_URL": "",
     "YOUTUBE_URL": "",
-    "SUBSTACK_URL": "",
+    "SUBSTACK_URL": "https://paparrot.substack.com/",
     "EMAIL": "paparrot@pm.me",
-    "BLUESKY_URL": ""
+    "BLUESKY_URL": "https://bsky.app/profile/paparrot.bsky.social"
   },
   "BLUESKY_IDENTIFIER": "paparrot.bsky.social",
   "SITE": "https://paparrot.netlify.app/",
