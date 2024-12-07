@@ -21,6 +21,6 @@
     "BLUESKY_URL": ""
   },
   "BLUESKY_IDENTIFIER": "paparrot.bsky.social",
-  "SITE": "https://paparrot.github.io/blog.paparrot",
-  "BASE": "/"
+  "SITE": "https://paparrot.netlify.app/",
+  "BASE": ""
 }
