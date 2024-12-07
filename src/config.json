@@ -22,5 +22,5 @@
   },
   "BLUESKY_IDENTIFIER": "paparrot.bsky.social",
   "SITE": "https://paparrot.github.io/blog.paparrot",
-  "BASE": "/blog-template"
+  "BASE": "/"
 }
